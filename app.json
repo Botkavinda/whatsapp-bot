@@ -1,8 +1,8 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "KAVINDA MAX ",
+	"description": "Wa MEME Bot.",
 	"keywords": [
-		"whatsapp",
+		"kavinda max meme whatsapp PROTECTION",
 		"bot"
 	],
 	"repository": "https://github.com/raganork-ind/whatsapp-bot",
@@ -15,7 +15,7 @@
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
-            "required": false,
+            "required": true,
             "value":"jid,jid"
         },
         "READ_MESSAGES": {
@@ -34,7 +34,7 @@
             "value":""
         },
         "HEROKU_APP_NAME": {
-            "description": "Exact name which you gave at the top",
+            "description": "KAVINDA MAX",
             "required": true,
             "value":""
         },
@@ -49,7 +49,7 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "KAVINDA MAX",
             "required": true,
             "value":"Raganork"
         },
@@ -61,7 +61,7 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
